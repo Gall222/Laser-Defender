@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6b95847d1e6f13c42802ad8d9c3c20cb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - STAR7
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2cd0d35fb8144f4e8a213923b29098d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
